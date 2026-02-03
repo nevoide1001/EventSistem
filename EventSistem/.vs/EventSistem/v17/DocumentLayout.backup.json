@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\EventSistem\\EventSistem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40BD9951-9DEB-D8C0-80B3-0A7801AA6825}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Documents\\EventSistem\\EventSistem\\assets\\script\\eventsistem\\points.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BD9951-9DEB-D8C0-80B3-0A7801AA6825}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\eventsistem\\points.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BD9951-9DEB-D8C0-80B3-0A7801AA6825}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Documents\\EventSistem\\EventSistem\\assets\\script\\eventsistem\\eventsistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BD9951-9DEB-D8C0-80B3-0A7801AA6825}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\eventsistem\\eventsistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BD9951-9DEB-D8C0-80B3-0A7801AA6825}|Assembly-CSharp.csproj|c:\\users\\usuario\\documents\\eventsistem\\eventsistem\\assets\\script\\eventsistem\\inputsistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BD9951-9DEB-D8C0-80B3-0A7801AA6825}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\eventsistem\\inputsistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BD9951-9DEB-D8C0-80B3-0A7801AA6825}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Documents\\EventSistem\\EventSistem\\assets\\script\\eventsistem\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BD9951-9DEB-D8C0-80B3-0A7801AA6825}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\eventsistem\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BD9951-9DEB-D8C0-80B3-0A7801AA6825}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Documents\\EventSistem\\EventSistem\\assets\\script\\eventsistem\\uicontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BD9951-9DEB-D8C0-80B3-0A7801AA6825}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\eventsistem\\uicontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\EventSistem\\EventSistem\\Assets\\Script\\EventSistem\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EventSistem\\Health.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\EventSistem\\EventSistem\\Assets\\Script\\EventSistem\\Health.cs",
+              "RelativeToolTip": "Assets\\Script\\EventSistem\\Health.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAABRwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T22:33:19.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Points.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\EventSistem\\EventSistem\\Assets\\Script\\EventSistem\\Points.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EventSistem\\Points.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\EventSistem\\EventSistem\\Assets\\Script\\EventSistem\\Points.cs",
+              "RelativeToolTip": "Assets\\Script\\EventSistem\\Points.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:45:17.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventSistem.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\EventSistem\\EventSistem\\Assets\\Script\\EventSistem\\EventSistem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EventSistem\\EventSistem.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\EventSistem\\EventSistem\\Assets\\Script\\EventSistem\\EventSistem.cs",
+              "RelativeToolTip": "Assets\\Script\\EventSistem\\EventSistem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:30:54.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputSistem.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\EventSistem\\EventSistem\\Assets\\Script\\EventSistem\\InputSistem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EventSistem\\InputSistem.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\EventSistem\\EventSistem\\Assets\\Script\\EventSistem\\InputSistem.cs",
+              "RelativeToolTip": "Assets\\Script\\EventSistem\\InputSistem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:30:47.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIControler.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\EventSistem\\EventSistem\\Assets\\Script\\EventSistem\\UIControler.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EventSistem\\UIControler.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\EventSistem\\EventSistem\\Assets\\Script\\EventSistem\\UIControler.cs",
+              "RelativeToolTip": "Assets\\Script\\EventSistem\\UIControler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:45:16.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
